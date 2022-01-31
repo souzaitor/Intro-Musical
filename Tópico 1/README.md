@@ -54,7 +54,7 @@
 ![Untitled](../Imagens/Untitled%202.png)
 
 - A escala temperada é dividida em intervalos iguais, i: **dó, dó#, ré, ré#, mi, fá, fá#, sol, sol#, lá, lá#, si**
-- Se no intervalo de uma oitava a frequência dobra, podemos escrever: $i^{12}=2 \text{ ou } i=2^{1/12}$
+- Se no intervalo de uma oitava a frequência dobra, podemos escrever: <img src="https://render.githubusercontent.com/render/math?math=i%5E%7B12%7D%3D2%20%5Ctext%7B%20ou%20%7D%20i%3D2%5E%7B1%2F12%7D">
 - **valor de i = 1.012918**
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
@@ -72,9 +72,7 @@
 - A amplitude é um **parâmetro físico**, a intensidade representa a **percepção** da amplitude da vibração sonora e permite distinguir sons fortes de sons fracos.
 - Enquanto **amplitude** e **potência** são conceitos físicos, **intensidade**, assim como **altura**, é um conceito psicofísico.
 - A percepção do ouvido não é linear em relação à potência (amplitude ao quadrado)
-- A intensidade (medida em dB - decibéis) de um som é dada por, sendo $P_o$ o **som de referência**:
-
-$I=10\cdot\log(P/P_o)$
+- A intensidade (medida em dB - decibéis) de um som é dada por, sendo $P_o$ o **som de referência**:  <img src="https://render.githubusercontent.com/render/math?math=I%3D10%5Ccdot%5Clog(P%2FP_o)">
 
 - Por exemplo, para produzir um som de intensidade duas vezes maior, é preciso utilizar cerca de 10 vezes mais potência acústica
 
