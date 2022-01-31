@@ -66,7 +66,7 @@
 - A **onda senoidal** é a forma mais simples de sinal (função) periódica que permite explicar as propriedades percentuais do som, como a altura, intensidade, timbre, inclusive aspectos mais complexos como harmônicos
 - Portanto, um modelo matemático para descrever o som pode ser construído com base em funções senoidais.
 
-<img src="../Imagens/Untitled%203.png" width="100" align="middle"/>
+<img src="../Imagens/Untitled%203.png" align="middle"/>
 
 - A **amplitude**, igual ao raio da circunferência geradora, determina a **potência** sonora entre pelo sinal ( potência é a energia por unidade de tempo e mede-se em watts)
 - A amplitude é um **parâmetro físico**, a intensidade representa a **percepção** da amplitude da vibração sonora e permite distinguir sons fortes de sons fracos.
