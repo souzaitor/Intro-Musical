@@ -66,13 +66,13 @@
 - A **onda senoidal** é a forma mais simples de sinal (função) periódica que permite explicar as propriedades percentuais do som, como a altura, intensidade, timbre, inclusive aspectos mais complexos como harmônicos
 - Portanto, um modelo matemático para descrever o som pode ser construído com base em funções senoidais.
 
-![Untitled](../Imagens/Untitled%203.png)
+<img src="../Imagens/Untitled%203.png" width="100" align="middle"/>
 
 - A **amplitude**, igual ao raio da circunferência geradora, determina a **potência** sonora entre pelo sinal ( potência é a energia por unidade de tempo e mede-se em watts)
 - A amplitude é um **parâmetro físico**, a intensidade representa a **percepção** da amplitude da vibração sonora e permite distinguir sons fortes de sons fracos.
 - Enquanto **amplitude** e **potência** são conceitos físicos, **intensidade**, assim como **altura**, é um conceito psicofísico.
 - A percepção do ouvido não é linear em relação à potência (amplitude ao quadrado)
-- A intensidade (medida em dB - decibéis) de um som é dada por, sendo $P_o$ o **som de referência**:  <img src="https://render.githubusercontent.com/render/math?math=I%3D10%5Ccdot%5Clog(P%2FP_o)">
+- A intensidade (medida em dB - decibéis) de um som é dada por, sendo Po o **som de referência**:  <img src="https://render.githubusercontent.com/render/math?math=I%3D10%5Ccdot%5Clog(P%2FP_o)">
 
 - Por exemplo, para produzir um som de intensidade duas vezes maior, é preciso utilizar cerca de 10 vezes mais potência acústica
 
