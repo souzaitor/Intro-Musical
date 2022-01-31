@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/souzaitor/Intro-Musical/blob/main/README.md#-notas-de-aula)
+
 <div id="top"></div>
 
 # 📖 Tópico 1: Conceitos Introdutórios da Computação Musical
