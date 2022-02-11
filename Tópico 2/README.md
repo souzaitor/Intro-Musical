@@ -17,7 +17,7 @@
 - Anteriormente, com base nas características de uma onda sonora, um modelo baseado na função seno foi proposto para descrever uma nota musica com uma única frequência.
 - Como exemplo, considerando uma frequência f0 de 440 Hz e amplitude A, um sinal sonoro, ou melhor, **uma nota musica,** pode ser representado, de forma simplificada, como:
 
-![](https://render.githubusercontent.com/render/math?math=f(t)=A\sin(2%20\pi%20f_0%20t),%20t\ge0)
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=f(t)=A\sin(2%20\pi%20f_0%20t),%20t\ge0"></div>
 
 sendo que ![](https://render.githubusercontent.com/render/math?math=w_0=2f_0\pi) é a frequência angular e f0 é chamada frequência fundamental
 
@@ -29,7 +29,8 @@ sendo que ![](https://render.githubusercontent.com/render/math?math=w_0=2f_0\pi)
 ## 🎵 Os Harmônicos
 
 - Baseados na teoria de **Análise de Fourier**, podemos descrever um sinal sonoro ou nota musical como:
-![](https://render.githubusercontent.com/render/math?math=f(t)=\sum\limits_{k=1}^{\infty}A_k\sin(2ktf_o\pi+\theta_k))
+
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=f(t)=\sum_{k=1}^{\infty}A_k\sin(2ktf_o\pi+\theta_k)"></div>
 
 - Em sons complexos, a componente de frequência mais baixa (componente fundamental) é normalmente percebida como a altura do som e é considerada o primeiro harmônico (tom fundamental)
 - As demais componentes de frequência (múltiplos da frequência fundamental), determinam o timbre da fonte sonora
@@ -42,6 +43,8 @@ sendo que ![](https://render.githubusercontent.com/render/math?math=w_0=2f_0\pi)
 - Grosso modo, o timbre corresponde ao conjunto de frequência que um instrumento consegue produzir
 - O timbre é relacionado com a forma do sinal sonoro
 
-![Untitled](./Untitled.png)
+
+<div align="center"><img src="./Untitled.png"></div>
+
 
 - Formas complexas de vibração sonora, músicas por exemplo. podem ser geradas como combinações de ondas senoidais com diferentes frequências, baseada na teoria da **Transformada de Fourier.**
