@@ -28,7 +28,7 @@
 - Dessa forma, definimos nota musical por uma frequência específica
 - Em particular, as notas são descritas por meio de sinais (figuras)
 
-![Untitled](../Imagens/Untitled.png)
+![Untitled](./Untitled.png)
 
 - A medida que a frequência **sobe**, a altura **aumenta**.
 - Quanto **mais alta** uma nota, **mais agudo** é a sensação da nota. Quanto **mais baixa** uma nota, **mais grave** é a sensação da nota.
@@ -39,7 +39,7 @@
 
 ## 🎵 Escala Natural
 
-![Untitled](../Imagens/Untitled%201.png)
+![Untitled](./Untitled%201.png)
 
 - O **tom** é a soma de dois semitons
 - O **semitom** é o menor intervalo adotado entre duas notas (frequências) na música ocidental
@@ -53,7 +53,7 @@
 
 - No sistema Temperado para chegar no Semitom Ascendente (Sustenido) e no Semitom Descendente (Bemol ) são necessários andar 4.5 comas, então nesse caso Sustenido = Bemol
 
-![Untitled](../Imagens/Untitled%202.png)
+![Untitled](./Untitled%202.png)
 
 - A escala temperada é dividida em intervalos iguais, i: **dó, dó#, ré, ré#, mi, fá, fá#, sol, sol#, lá, lá#, si**
 - Se no intervalo de uma oitava a frequência dobra, podemos escrever: <img src="https://render.githubusercontent.com/render/math?math=i%5E%7B12%7D%3D2%20%5Ctext%7B%20ou%20%7D%20i%3D2%5E%7B1%2F12%7D">
@@ -68,7 +68,7 @@
 - A **onda senoidal** é a forma mais simples de sinal (função) periódica que permite explicar as propriedades percentuais do som, como a altura, intensidade, timbre, inclusive aspectos mais complexos como harmônicos
 - Portanto, um modelo matemático para descrever o som pode ser construído com base em funções senoidais.
 
-<img src="../Imagens/Untitled%203.png" align="middle"/>
+<img src="./Untitled%203.png" align="middle"/>
 
 - A **amplitude**, igual ao raio da circunferência geradora, determina a **potência** sonora entre pelo sinal ( potência é a energia por unidade de tempo e mede-se em watts)
 - A amplitude é um **parâmetro físico**, a intensidade representa a **percepção** da amplitude da vibração sonora e permite distinguir sons fortes de sons fracos.
@@ -78,6 +78,6 @@
 
 - Por exemplo, para produzir um som de intensidade duas vezes maior, é preciso utilizar cerca de 10 vezes mais potência acústica
 
-<img src="../Imagens/Untitled%204.png" width="200" align="middle"/>
+<img src="./Untitled%204.png" width="200" align="middle"/>
 
 <p align="right">(<a href="#top">⬆️ Voltar ao Topo</a>)</p>
