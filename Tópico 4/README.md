@@ -14,6 +14,12 @@
 
 ## 🎵 Ressonância
 
+Exploramos como, a partir de uma frequência, a qual chamamos frequência fundamental, denotada comumente por f0, um som com características mais complexas pode ser gerado, ou melhor, sintetizado. Relembrando, dada uma frequência f0, podemos construir uma série harmônica (no tempo) como
+
+<!-- $s(t) = \sum_{k=1}^{n} A_k\cdot\sin(kw_0t)$ --> <div align="center"><img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=s(t)%20%3D%20%5Csum_%7Bk%3D1%7D%5E%7Bn%7D%20A_k%5Ccdot%5Csin(kw_0t)"></div>
+
+sendo w0 = 2π · f0 a frequência angular, n o número total de harmônicos (frequência múltiplas inteiras da fundamental ) utilizados na série e Ak sendo a amplitude de cada uma das funções senos consideradas nas parcelas da série. Assumimos um número de harmônicos finito para fins práticos. Verifica-se que as notas musicais são exemplos de sinais harmônicos e f0 a menor frequência capaz de produzir ondas estacionárias em um instrumento musical.
+
 Vamos considerar agora um conceito muito importante que pode alterar as frequências em um sistema físico, chamado ressonância. Trata-se de fenômeno que ocorre quando uma força  ́e aplicada (sobre um sistema físico) com uma frequência igual ou muito próxima da fundamental desse sistema.O fenômeno ocasiona um aumento na amplitude de oscilação maior do que aquele ocasionado por outras frequências.
 
 Conceitualmente, existem diversos tipos de ressonância como a mecânica, a sonora, a elétrica, a magnética e a  ́optica. Neste texto, estamos interessados principalmente na **ressonância sonora**.
@@ -56,7 +62,7 @@ No que se refere a síntese de voz, a frequências fundamental pode ser utilizad
 
 # Referências
 
-* [📕 **Sons, ressonância, formantes e as vogais na fala**. Murillo Rodrigo Petrucelli Homem.](https://cymatics.fm/blogs/production/subtractive-synthesis)
+* 📕 **Sons, ressonância, formantes e as vogais na fala**. Murillo Rodrigo Petrucelli Homem.
 
 * [▶️ Resonance Introduction using 9 Demonstrations](https://www.youtube.com/watch?v=B_u3sGbpM8M&ab_channel=FlippingPhysics)
 
